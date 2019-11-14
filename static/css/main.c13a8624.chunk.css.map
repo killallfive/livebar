@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAEA,aACI,wBACJ,CACA,WACI,UAAW,CACX,UAAW,CACX,WACJ","file":"main.c13a8624.chunk.css","sourcesContent":["/* 在CSS文件中引入antd的css文件 */\r\n@import '~antd/dist/antd.css';\r\n.home_center {\r\n    background-color: rgb(192, 185, 185);\r\n}\r\n.idea_head {\r\n    float: left;\r\n    width: 20px;\r\n    height: 20px;\r\n}"]}
